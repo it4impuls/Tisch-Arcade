@@ -36,7 +36,7 @@ eure Datei nicht als Ausführbare Datei gesehen wird, Informiert bitte
 den Administrator, derzeit wird nur eine Begrenzte Anzahl an Endungen
 erkannt.
 
-![](media/image1.jpeg)Das Menü
+Das Menü
 zeigt Game-Icons an. Es sucht diese im gleichen Ordner, wie die
 auszuführende Datei. Die Bilddatei muss dafür eine .ico Endung haben.
 
@@ -45,6 +45,7 @@ ausgewählt ist. Die Bilddatei kann dafür .png oder .jpg sein.
 
 ## Steuerung
 
+![](media/image1.jpeg)
 Das Control-panel simuliert ein Gamecontroller. Stellt sicher, dass euer
 Programm solche Inputs unterstützt.\
 Der Joystick gibt float Werte von -1 bis 1 je Achse an. Da die
@@ -96,8 +97,3 @@ Beispiel:*
 
 > if pressed_keys\[pygame.K_RETURN\] or **joystick.get_button(0)**:\
 > \#doStuff...
-
-## GameMenu debuggen
-
-Der Sourcecode findet sich unter
-<https://github.com/marilynias/Tisch-Arcade>.
