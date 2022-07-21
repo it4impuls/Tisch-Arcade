@@ -151,18 +151,18 @@ namespace GameMenuMono
                             showMethod = () => RunExecutable(file);
                             filePath = file;
                         }
-                        //else if (ext == ".ico" && !Path.GetFileName(file).StartsWith("_"))                 //get icon for the game
-                        //{
-                        //    using (var stream = new FileStream(file, FileMode.Open))
-                        //    {
-                        //        icon = Texture2D.FromStream(graphicsDevice, stream);
-                        //    }
+                        else if (ext == ".ico" && !Path.GetFileName(file).StartsWith("_"))                 //get icon for the game
+                        {
+                            using (var stream = new FileStream(file, FileMode.Open))
+                            {
+                                icon = Texture2D.FromStream(graphicsDevice, stream);
+                            }
 
-                        //    //FileStream fileStream = new FileStream(file, FileMode.Open);
-                            
-                        //    //fileStream.Dispose();
-                        //}
-                        else if (ext == ".png" || ext == ".jpg")        //get Preview image for the game
+                            //FileStream fileStream = new FileStream(file, FileMode.Open);
+
+                            //fileStream.Dispose();
+                        }
+                        else if ((ext == ".png" || ext == ".jpg") && !Path.GetFileName(file).StartsWith("_"))        //get Preview image for the game
                         {
                             using (var stream = new FileStream(file, FileMode.Open))
                             {
