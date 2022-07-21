@@ -1,0 +1,132 @@
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\GameMenuMono.exe
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\GameMenuMono.deps.json
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\GameMenuMono.runtimeconfig.json
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\GameMenuMono.runtimeconfig.dev.json
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\GameMenuMono.dll
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\GameMenuMono.pdb
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.AssemblyReference.cache
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\obj\Debug\netcoreapp3.1\GameMenuMono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\obj\Debug\netcoreapp3.1\GameMenuMono.AssemblyInfoInputs.cache
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\obj\Debug\netcoreapp3.1\GameMenuMono.AssemblyInfo.cs
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.CoreCompileInputs.cache
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.CopyComplete
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\obj\Debug\netcoreapp3.1\GameMenuMono.dll
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\obj\Debug\netcoreapp3.1\GameMenuMono.pdb
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\obj\Debug\netcoreapp3.1\GameMenuMono.genruntimeconfig.cache
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\Content\UI\Font\BttnFont.xnb
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\Content\UI\Sprites\background_01.xnb
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\Content\UI\Sprites\Button.xnb
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\Content\UI\Font\Arial.xnb
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\Content\UI\Font\Arial_12.xnb
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\Content\UI\Font\VT323_12.xnb
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\Content\UI\Font\TitleFont.xnb
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\Unidecode.NET.dll
+C:\Users\africk\Documents\GitHub\Tisch-Arcade\GameMenuMono\bin\Debug\netcoreapp3.1\UnidecodeSharpFork.dll
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Font\Arial.xnb
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Font\Arial_12.xnb
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Font\BttnFont.xnb
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Font\TitleFont.xnb
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Font\VT323_12.xnb
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Sprites\Background_01.xnb
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Sprites\Button.xnb
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.exe
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.deps.json
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.runtimeconfig.json
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.runtimeconfig.dev.json
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.dll
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.pdb
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Unidecode.NET.dll
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\UnidecodeSharpFork.dll
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.AssemblyReference.cache
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.AssemblyInfoInputs.cache
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.AssemblyInfo.cs
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.CoreCompileInputs.cache
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.CopyComplete
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.dll
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.pdb
+Z:\BI-Bereiche\IT\Projekte\Tisch-Arcade\Software\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.genruntimeconfig.cache
+P:\c#\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.dll
+P:\c#\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.pdb
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Font\Arial.xnb
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Font\BttnFont.xnb
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Font\Arial_12.xnb
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Font\TitleFont.xnb
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Font\VT323_12.xnb
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Sprites\Background_01.xnb
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Content\UI\Sprites\Button.xnb
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.exe
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.deps.json
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.runtimeconfig.json
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.runtimeconfig.dev.json
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.dll
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\GameMenuMono.pdb
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\Unidecode.NET.dll
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\UnidecodeSharpFork.dll
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+P:\c#\GameMenu sourcecode\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+P:\c#\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.AssemblyReference.cache
+P:\c#\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.GeneratedMSBuildEditorConfig.editorconfig
+P:\c#\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.AssemblyInfoInputs.cache
+P:\c#\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.AssemblyInfo.cs
+P:\c#\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.CoreCompileInputs.cache
+P:\c#\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.CopyComplete
+P:\c#\GameMenu sourcecode\obj\Debug\netcoreapp3.1\GameMenuMono.genruntimeconfig.cache
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\Content\UI\Font\Arial.xnb
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\Content\UI\Font\BttnFont.xnb
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\Content\UI\Font\Arial_12.xnb
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\Content\UI\Font\TitleFont.xnb
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\Content\UI\Font\VT323_12.xnb
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\Content\UI\Sprites\Background_01.xnb
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\Content\UI\Sprites\Button.xnb
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\GameMenuMono.exe
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\GameMenuMono.deps.json
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\GameMenuMono.runtimeconfig.json
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\GameMenuMono.runtimeconfig.dev.json
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\GameMenuMono.dll
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\GameMenuMono.pdb
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\Unidecode.NET.dll
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\UnidecodeSharpFork.dll
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+P:\c#\GameMenu sourcecode\Gamemenu\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+P:\c#\GameMenu sourcecode\Gamemenu\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.AssemblyReference.cache
+P:\c#\GameMenu sourcecode\Gamemenu\obj\Debug\netcoreapp3.1\GameMenuMono.GeneratedMSBuildEditorConfig.editorconfig
+P:\c#\GameMenu sourcecode\Gamemenu\obj\Debug\netcoreapp3.1\GameMenuMono.AssemblyInfoInputs.cache
+P:\c#\GameMenu sourcecode\Gamemenu\obj\Debug\netcoreapp3.1\GameMenuMono.AssemblyInfo.cs
+P:\c#\GameMenu sourcecode\Gamemenu\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.CoreCompileInputs.cache
+P:\c#\GameMenu sourcecode\Gamemenu\obj\Debug\netcoreapp3.1\GameMenuMono.csproj.CopyComplete
+P:\c#\GameMenu sourcecode\Gamemenu\obj\Debug\netcoreapp3.1\GameMenuMono.dll
+P:\c#\GameMenu sourcecode\Gamemenu\obj\Debug\netcoreapp3.1\GameMenuMono.pdb
+P:\c#\GameMenu sourcecode\Gamemenu\obj\Debug\netcoreapp3.1\GameMenuMono.genruntimeconfig.cache
