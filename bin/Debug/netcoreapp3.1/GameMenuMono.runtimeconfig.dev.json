@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\africk.TN-IMPULSREHA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\africk.TN-IMPULSREHA\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
